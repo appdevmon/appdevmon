@@ -1,5 +1,3 @@
-Hi, I'm Fatih. 
-I usually code in c# but also code in little bit of everything that intrigues me. I'm that kind of patchwork dev. :)
 Currently working on a fantasy pc game using unity as my main project and doing some side projects to learn stuff and keep myself busy. Some examples are;
 - Photogrammetry automation device using arduino and stepper motors.
 - HID device with joystick and 9 multi function keys for game development and video editing as main usage.
