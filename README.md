@@ -44,3 +44,4 @@ Pushing the thermal and electrical limits of single-board computers (recently va
 Optimizing local Linux storage environments by migrating swap files and Hugging Face model caches to external NVMe drives.
 
 📫 Get in Touch
+https://www.youtube.com/@bununlaneolur
