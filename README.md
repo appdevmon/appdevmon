@@ -1,24 +1,46 @@
-Currently working on a fantasy pc game using unity as my main project and doing some side projects to learn stuff and keep myself busy. Some examples are;
-- Photogrammetry automation device using arduino and stepper motors.
-- HID device with joystick and 9 multi function keys for game development and video editing as main usage.
+Hi there! 👋 Welcome to my GitHub profile.
 
-I also like to tinker with no-brand devices software or optimize old hardware to repurpose them.
+I am an independent hardware hobbyist, digital content creator, and tinkerer. My projects live at the intersection of embedded systems engineering, local AI development, and DIY maker culture. When I am not soldering circuits or optimizing 3D prints, I am working on building my home-based YouTube channel dedicated to electronics and maker projects.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=appdevmon&show_icons=true&theme=merko&line_height=29" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appdevmon&layout=compact&langs_count=4" />
+🛠️ Tech Stack & Hardware
+Microcontrollers & SBCs: ESP32 (C3, S3-Zero), Raspberry Pi (Zero 2 W), Arduino ecosystems
 
-Main libraries
+Local AI & Machine Learning: ComfyUI pipeline configuration, Character LoRA training, Diffusion Models (Wan 2.2, LTX 2.3, Qwen Image Edit 2511)
 
-<img alt=".Net" align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img alt="Bootstrap" align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+Making & Fabrication: 3D Printing (Ender 3 Neo modifications), hardware repair, custom PCB/circuit design
 
-Languages that I lost some of my life energy to
+Systems & OS: Linux server administration, Batocera retro emulation, legacy iOS environments
 
-<img alt="C#" align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+🚀 Featured Projects & Experiments
+🔋 Automated 4-Slot Lithium Battery Diagnostics
 
-Languages that makes me tilt my head atm (Learning)
+Designed an automated testing and discharge station using an ESP32-C3, P-channel MOSFETs, and HW-586 discharge modules.
 
-<img alt="Python" align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+Implemented custom circuit isolation strategies using optocouplers for safe, independent cell switching.
+
+🪞 Smart Bathroom Mirror Lighting
+
+Built a custom lighting controller utilizing an HLK-LD2410B mmWave radar module and an IRLZ34N MOSFET driven by an ESP32-C3.
+
+Wrote custom C++ logic for distance-threshold debugging and implemented OTA update support for seamless maintenance.
+
+📊 Custom Wearable/Compact Battery Gauge
+
+Engineered a state-of-charge tracking circuit utilizing an ESP32-S3-Zero and a TP4056 charging module.
+
+Programmed a circular GC9A01 TFT display using the LovyanGFX library to calculate and visually render voltage divider math in real-time.
+
+🤖 Local AI & Generative Video Pipelines
+
+Built custom datasets for training highly specific SDXL character LoRAs.
+
+Extensive experimentation with LTX 2.3 for lip-synced audio generation and managing VRAM-optimized ComfyUI workflows on local hardware.
+
+⚡ Currently Working On
+Filming and scripting content for my upcoming YouTube channel focusing on DIY electronics and maker builds.
+
+Pushing the thermal and electrical limits of single-board computers (recently validated a stable 1350 MHz overclock on a headless Pi Zero 2 W).
+
+Optimizing local Linux storage environments by migrating swap files and Hugging Face model caches to external NVMe drives.
+
+📫 Get in Touch
